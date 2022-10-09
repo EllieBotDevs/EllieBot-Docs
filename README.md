@@ -2,6 +2,8 @@
 
 EllieBot Docs ©2018-2022 Emotion#6522
 
+### This is due for a re write at some stage this this may be I do not know
+
 ## Badges
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/59b2c52e-91cf-496f-b520-cf3915215be1/deploy-status)](https://app.netlify.com/sites/elliebotdocs/deploys)
