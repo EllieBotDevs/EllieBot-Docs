@@ -12,7 +12,7 @@ EllieBot Docs ©2018-2022 Emotion#6522
 
 ```
 1.Fork this repository
-2.Clone your fork: git clone https://github.com/your-username/EllieBot-Documentation.git
+2.Clone your fork: git clone https://github.com/your-username/EllieBot-Docs.git
 3.Create your feature branch: git checkout -b my-new-feature
 4.Commit your changes: git commit -am 'Add some feature'
 5.Push to the branch: git push origin my-new-feature
