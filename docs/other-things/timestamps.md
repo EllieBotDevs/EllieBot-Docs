@@ -1,6 +1,6 @@
 # How to use timestamps
 
-!!! note "stuff that culd help"
+!!! note "Here is some stuff that culd help"
     [Unix epoch time converter](https://www.epochconverter.com/)
     ```
     <t:1624855717>         short date time:     June 27, 2021 9:48 PM
@@ -19,5 +19,5 @@
 
 !!! abstract "Step 2"
     Then type it into Discord as shown below
-    
+
     ![](https://cdn.discordapp.com/attachments/881396607218753607/1041540099277590558/image.png)
