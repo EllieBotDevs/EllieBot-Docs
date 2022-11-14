@@ -14,7 +14,10 @@
     ```
 
 !!! abstract "Step 1"
+    Look to how it is shown below and copy that but with your current date and time
     ![](https://cdn.discordapp.com/attachments/881396607218753607/1041539019730845756/image.png)
 
 !!! abstract "Step 2"
+    Then type it into Discord as shown below
+    
     ![](https://cdn.discordapp.com/attachments/881396607218753607/1041540099277590558/image.png)
