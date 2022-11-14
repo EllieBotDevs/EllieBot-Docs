@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.elliebot.net/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.elliebot.net/coming_soon/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.elliebot.net/contributing/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.elliebot.net/credits/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.elliebot.net/Giveaway-Child/Commands/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.elliebot.net/Ticket-Child/Commands/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <loc>https://docs.elliebot.net/SupportChild/Commands/</loc>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.elliebot.net/Ticket-Child/Privacy/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <loc>https://docs.elliebot.net/other-things/timestamps/</loc>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.elliebot.net/v4/custom-reactions/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.elliebot.net/v4/permissions-system/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.elliebot.net/v4/placeholders/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.elliebot.net/v5/coming_soon/</loc>
-         <lastmod>2022-07-20</lastmod>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

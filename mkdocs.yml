@@ -9,7 +9,7 @@ site_author: EmotionChild
 # Repository
 repo_name: EllieBotDevs/Ellie-bot
 repo_url: https://github.com/EllieBotDevs/Ellie-bot
-edit_uri: https://github.com/EmotionChild/EllieBot-Docs/blob/main/docs
+edit_uri: https://github.com/EllieBotDevs/EllieBot-Docs/blob/main/docs
 
 # Copyright
 copyright: Copyright &copy; 2018 - 2022 EllieBotDevs
@@ -63,12 +63,12 @@ nav:
   - Ellie v5:
       - Contribution Steps: contributing.md
       - Installation: v5/coming_soon.md
-      - Privacy: v5/coming_soon.md
   - Giveaway Child:
       - Commands: Giveaway-Child/Commands.md
-  - Ticket Child:
-      - Commands: Ticket-Child/Commands.md
-      - Privacy: Ticket-Child/Privacy.md
+  - SupportChild:
+      - Commands: SupportChild/Commands.md
+  - Other Stuff:
+      - Timestamps: other-things/timestamps.md
   - Credits:
       - Credits: credits.md
 

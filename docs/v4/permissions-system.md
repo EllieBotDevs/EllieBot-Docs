@@ -1,15 +1,14 @@
 # Permissions Overview
 
-Have you ever felt confused or even overwhelmed when trying to set Ellie's permissions? In this guide we will be explaining **how to use the permission commands correctly** and even **cover a few common questions**! Every command we discuss here can be found in the [Commands List].
-**Server owners are not bot owners**.
+Have you ever felt confused or even overwhelmed when trying to set Nadeko's permissions? In this guide we will be explaining **how to use the permission commands correctly** and even **cover a few common questions**! Every command we discuss here can be found in the [Commands List].
 
 ## Why do we use the Permissions Commands?
 
-Permissions are very handy at setting who can use what commands in a server. All commands and modules are enabled by default. If something is a bot owner only command, it can only be ran by the bot owner.
+Permissions are very handy at setting who can use what commands in a server. All commands and modules are enabled by default. If something is a bot owner only command, it can only be ran by the bot owner
 
 Several commands still require that you have the correct permissions on Discord to be able to use them, so for users to be able to use commands like `'kick` and `'voicemute`, they need **Kick** and **Mute Members** server permissions, respectively.
 
-With the permissions system it possible to restrict who can skip the current song, collect EmotionBot Coins or use the NSFW module.
+With the permissions system it possible to restrict who can skip the current song, pick NadekoFlowers or use the NSFW module.
 
 ## First Time Setup
 
@@ -30,7 +29,7 @@ To view this permissions chain, do `'lp`. The rule at the top of the chain takes
 
 If you want to remove a permission from the chain of permissions, do `'rp X` to remove rule number X and similarly, do `'mp X Y` to move rule number X to number Y (moving, not swapping!).
 
-If you want the bot to notify users why they can't use a command or module, use `'verbose true` and Nadeko will tell you what rule is preventing the command from being used.
+If you want the bot to notify users why they can't use a command or module, use `'verbose true` and Ellie will tell you what rule is preventing the command from being used.
 
 ## Commonly Asked Questions
 
@@ -58,9 +57,9 @@ To allow users to only see the current song and have a DJ role for queuing follo
 
 1. `'sm Music disable`
     - Disables music commands for everybody
-2. `'sc 'nowplaying enable`
+2. `'sc .nowplaying enable`
     - Enables the "nowplaying" command for everyone
-3. `'sc 'listqueue enable`
+3. `'sc .listqueue enable`
     - Enables the "listqueue" command for everyone
 4. `'rm Music enable DJ`
     - Enables all music commands only for the DJ role
@@ -79,9 +78,9 @@ Say you want to only enable NSFW commands for a specific role, just do the follo
 If you don't want server or global Expressions, just block the module that controls their usage:
 
 1. `'sm ActualExpressions disable`
-    - Disables the ActualExpressions module from being used
+    - Disables the ActualExpression module from being used
 
-**Note**: The `Expressions` module controls the usage of Expressions. The `CustomReactions` module controls commands related to Expressions (such as `'acr`, `'lcr`, `'crca`, etc).
+**Note**: The `Expressions` module controls the usage of Expressions. The `Expressions` module controls commands related to Expressions (such as `'acr`, `'lcr`, `'crca`, etc).
 
 #### I've broken permissions and am stuck, can I reset permissions?
 

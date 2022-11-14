@@ -30,7 +30,7 @@ Some features have their own specific placeholders which are noted in that featu
 - `%server.members%` - Member count
 - `%server.boosters%` - Number of users boosting the server
 - `%server.boost_level%` - Server Boost level
-- `%server.time%` - Server time (requires `.timezone` to be set)
+- `%server.time%` - Server time (requires `'timezone` to be set)
 
 ### Channel placeholders
 
