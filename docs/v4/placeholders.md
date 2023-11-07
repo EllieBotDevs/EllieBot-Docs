@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Placeholders
 
 Placeholders are used in Quotes, Expressions, Greet/Bye messages, playing statuses, and a few other places.
