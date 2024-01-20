@@ -1,10 +1,6 @@
 # EllieBot Docs
 
-EllieBot Docs ©2018-2023 toastie_t0ast
-
-## Badges
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/59b2c52e-91cf-496f-b520-cf3915215be1/deploy-status)](https://app.netlify.com/sites/elliebotdocs/deploys)
+EllieBot Docs ©2018-2024 toastie_t0ast
 
 ## Contribution Guide
 
