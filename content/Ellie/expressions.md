@@ -1,8 +1,8 @@
----
-title: Ellie v4 Expressions
----
-
-# Expressions
++++
+title = "Ellie Expressions"
+description = "How to use Ellie's expressions system"
+weight = 1
++++
 
 ### Important
 

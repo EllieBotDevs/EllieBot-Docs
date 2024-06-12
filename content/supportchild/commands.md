@@ -1,9 +1,8 @@
----
-title: SupportChild commands
-description: Here is the full command list for SupportChild
----
-
-# Commands
++++
+title = "SupportChild Commands"
+description = "Here is the full command list for SupportChild"
+weight = 1
++++
 
 | Command                              | Description                                                                                                                                  |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|

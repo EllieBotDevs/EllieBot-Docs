@@ -1,6 +1,8 @@
----
-title: Ellie v5 Contribution guidelines
----
++++
+title = "Ellie contribution guidelines"
+description = "Steps on contributing to the Ellie bot project"
+weight = 4
++++
 
 ## Hey there!
 If you are on this page that means you either want to help us or you are just curious about our project our contribution steps for the Ellie bot project are below

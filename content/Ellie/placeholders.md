@@ -1,8 +1,8 @@
----
-title: Ellie v4 Placeholders
----
-
-# Placeholders
++++
+title = "Ellie Placeholders"
+description = "How to use Ellie's placeholders system"
+weight = 2
++++
 
 Placeholders are used in Quotes, Expressions, Greet/Bye messages, playing statuses, and a few other places.
 
@@ -12,8 +12,12 @@ Some features have their own specific placeholders which are noted in that featu
 
 ## Usual placeholders
 
-!!! Note
-    If you're using placeholders in embeds, don't use %user.mention% and %bot.mention% in titles, footers and field names. They will not show properly.
+{{% notice style="note" title="Important note concerning embeds:" %}}
+    If you're using placeholders in embeds,
+    don't use %user.mention% and %bot.mention% in titles,
+    footers and field names.
+    They will not show properly.
+{{% /notice %}}
 
 ### Bot placeholders
 
@@ -34,7 +38,7 @@ Some features have their own specific placeholders which are noted in that featu
 - `%server.members%` - Member count
 - `%server.boosters%` - Number of users boosting the server
 - `%server.boost_level%` - Server Boost level
-- `%server.time%` - Server time (requires `'timezone` to be set)
+- `%server.time%` - Server time (requires `.timezone` to be set)
 
 ### Channel placeholders
 
@@ -42,7 +46,7 @@ Some features have their own specific placeholders which are noted in that featu
 - `%channel.name%` - Channel name
 - `%channel.id%` - Channel ID
 - `%channel.created%` - Channel creation date
-- `%channel.nsfw%` - Returns either `True` or `False`, depending on if the channel is designated as NSFW using discord
+- `%channel.nsfw%` - Returns either `True` or `False`, depending on if the channel is designated as age-restricted in discord
 - `%channel.topic%` - Channel topic
 
 ### User placeholders
